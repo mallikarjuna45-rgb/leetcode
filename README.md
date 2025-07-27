@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0050-powx-n) |
+## Database
+|  |
+| ------- |
+| [0607-sales-person](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
