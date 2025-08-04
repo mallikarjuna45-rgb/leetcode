@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0792-binary-search) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0075-sort-colors) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
