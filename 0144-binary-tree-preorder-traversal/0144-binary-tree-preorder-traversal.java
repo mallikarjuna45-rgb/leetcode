@@ -24,8 +24,16 @@ class Solution {
         preOrder(root.right,li);
     }
     public List<Integer> preorderTraversal(TreeNode root) {
+        if(root == null)return new ArrayList<>();
         List<Integer> ans = new ArrayList<>();
-        preOrder(root,ans);
+        Stack<TreeNode> s = new Stack<>();
+        s.add(root);
+        while(!s.isEmpty()){
+            TreeNode node = s.pop();
+            if(node.right!=null) s.push(node.right);
+            if(node.left!=null) s.push(node.left);
+            ans.add(node.val);
+        }
         return ans;
     }
 }
