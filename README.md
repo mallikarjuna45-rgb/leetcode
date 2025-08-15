@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0607-sales-person](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0607-sales-person) |
+| [1268-market-analysis-i](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/1268-market-analysis-i) |
 ## Dynamic Programming
 |  |
 | ------- |
