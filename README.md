@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0342-power-of-four) |
+| [1448-maximum-69-number](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/1448-maximum-69-number) |
 ## Recursion
 |  |
 | ------- |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
