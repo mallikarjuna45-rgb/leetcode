@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0342-power-of-four) |
+| [0867-new-21-game](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/1448-maximum-69-number) |
 ## Recursion
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0867-new-21-game](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0867-new-21-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -130,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/1448-maximum-69-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0867-new-21-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
