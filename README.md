@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0679-24-game](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0679-24-game) |
 | [0792-binary-search](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/1448-maximum-69-number) |
 ## Recursion
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0867-new-21-game) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
