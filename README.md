@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0608-tree-node) |
 | [0627-swap-salary](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0627-swap-salary) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1268-market-analysis-i](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/1268-market-analysis-i) |
 ## Dynamic Programming
 |  |
