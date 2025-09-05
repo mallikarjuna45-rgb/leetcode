@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0342-power-of-four) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -166,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Enumeration
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
