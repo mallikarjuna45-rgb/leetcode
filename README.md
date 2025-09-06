@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0342-power-of-four) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Sorting
 |  |
 | ------- |
