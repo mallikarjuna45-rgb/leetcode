@@ -1,32 +1,28 @@
 class Solution {
+    private Map<Integer, Integer> levelSumMap = new HashMap<>();
+    
     public int maxLevelSum(TreeNode root) {
-        Queue<TreeNode> q = new LinkedList<>();
+        dfs(root, 1);
+        
         int maxLevel = 1;
-        int maxSum = root.val;
-        int level = 1;
+        int maxSum = levelSumMap.get(1);
         
-        q.offer(root);
-        
-        while (!q.isEmpty()) {
-            int size = q.size();
-            int levelSum = 0;  // sum for this level
-            
-            for (int i = 0; i < size; i++) {
-                TreeNode node = q.poll();
-                
-                levelSum += node.val;  
-                
-                if (node.left != null) q.add(node.left);
-                if (node.right != null) q.add(node.right);
-            }
-            
-            if (levelSum > maxSum) {
-                maxSum = levelSum;
+        for (int level : levelSumMap.keySet()) {
+            int sum = levelSumMap.get(level);
+            if (sum > maxSum) {
+                maxSum = sum;
                 maxLevel = level;
             }
-            
-            level++;
         }
         return maxLevel;
+    }
+    
+    private void dfs(TreeNode node, int level) {
+        if (node == null) return;
+        
+        levelSumMap.put(level, levelSumMap.getOrDefault(level, 0) + node.val);
+        
+        dfs(node.left, level + 1);
+        dfs(node.right, level + 1);
     }
 }
