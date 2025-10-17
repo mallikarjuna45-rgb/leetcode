@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -202,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0547-number-of-provinces) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mallikarjuna45-rgb/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
